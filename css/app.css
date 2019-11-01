@@ -590,7 +590,7 @@ p {
 /**! 04. spacing **/
 .space {
   padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-bottom: 3rem;
 }
 
 .space--md {

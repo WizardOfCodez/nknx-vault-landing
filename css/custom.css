@@ -45,3 +45,8 @@ h6 {
 /*! Place your custom styles here (below). 
       This will make it much easier to update the template later - you'll only need to preserve "this file
   ===================================================================================================*/
+
+  .donate{
+    margin-top:50px;
+    font-size: 0.8em;
+  }
